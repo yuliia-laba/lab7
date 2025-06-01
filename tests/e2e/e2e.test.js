@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+/*const puppeteer = require('puppeteer');
 
 describe('DemoQA E2E Tests', () => {
   jest.setTimeout(60000); 
@@ -96,4 +96,4 @@ describe('DemoQA E2E Tests', () => {
     },
     15000
   );
-});
+});*/

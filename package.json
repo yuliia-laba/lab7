@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test api": "jest tests/api",
+    "test ui": "jest tests/ui",
+    "test e2e": "jest tests/e2e",
+    "test unit": "jest tests/unit"
   },
   "keywords": [],
   "author": "",
